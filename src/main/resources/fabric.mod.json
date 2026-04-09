@@ -5,21 +5,21 @@
 	"name": "BetterBold",
 	"description": "Fixes bold text offset in HD fonts.",
 	"authors": [
-		"Kowaman"
+		"Kowagirl"
 	],
 	"contact": {
-		"homepage": "https://github.com/Kowaman/BetterBold",
-		"sources": "https://github.com/Kowaman/BetterBold"
+		"homepage": "https://github.com/Kowagirl/BetterBold",
+		"sources": "https://github.com/Kowagirl/BetterBold"
 	},
 	"license": "MIT",
 	"icon": "assets/betterbold/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"io.kowaman.BetterBold"
+			"io.kowagirl.BetterBold"
 		],
 		"client": [
-			"io.kowaman.BetterBoldClient"
+			"io.kowagirl.BetterBoldClient"
 		]
 	},
 	"mixins": [
@@ -29,8 +29,8 @@
 		}
 	],
 	"depends": {
-		"fabricloader": ">=0.16.0",
-		"minecraft": "~1.21.4",
+		"fabricloader": ">=0.18.6",
+		"minecraft": "~1.21.11",
 		"java": ">=21",
 		"fabric-api": "*"
 	},
