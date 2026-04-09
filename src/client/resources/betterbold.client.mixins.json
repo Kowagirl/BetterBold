@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "io.kowaman.mixin.client",
+	"package": "io.kowagirl.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
 		"BetterBoldGlyphMixin"
